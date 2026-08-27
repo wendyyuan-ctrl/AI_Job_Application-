@@ -1,0 +1,28 @@
+.DS_Store
+
+# Personal job-search workspace
+/private/
+/workspace/
+/resumes/
+/cover_letters/
+/applications/
+/candidate_profile.json
+/answer_bank.md
+/experience_bank.md
+/application_rules.md
+/resume_routing.md
+
+# Personal documents and trackers
+*.pdf
+*.doc
+*.docx
+*.xlsx
+*.xls
+
+# Authentication and browser state
+.env
+.env.*
+cookies*.json
+session*.json
+storage-state*.json
+
